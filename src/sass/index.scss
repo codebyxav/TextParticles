@@ -1,0 +1,26 @@
+@forward './main';
+
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    min-width: 100vw;
+    min-height: 100vh;
+    width: 1rem;
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    height: auto;
+    background-color: darkolivegreen;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+}
