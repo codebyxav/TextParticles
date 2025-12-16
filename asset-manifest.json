@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/text-particles/static/css/main.5f9e54ac.css",
-    "main.js": "/text-particles/static/js/main.ac569589.js",
-    "index.html": "/text-particles/index.html",
-    "main.5f9e54ac.css.map": "/text-particles/static/css/main.5f9e54ac.css.map",
-    "main.ac569589.js.map": "/text-particles/static/js/main.ac569589.js.map"
+    "main.css": "/TextParticles/static/css/main.5f9e54ac.css",
+    "main.js": "/TextParticles/static/js/main.ac569589.js",
+    "index.html": "/TextParticles/index.html",
+    "main.5f9e54ac.css.map": "/TextParticles/static/css/main.5f9e54ac.css.map",
+    "main.ac569589.js.map": "/TextParticles/static/js/main.ac569589.js.map"
   },
   "entrypoints": [
     "static/css/main.5f9e54ac.css",
